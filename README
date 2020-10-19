@@ -1,0 +1,7 @@
+Description 
+
+This is a mouse automation tool. Will move the mouse randomizing the the location and the time it randomizes after. 
+
+
+This file is written in python3. Download the requirements using pip3.
+Run this file using driver.py
